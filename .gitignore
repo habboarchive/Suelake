@@ -9,3 +9,5 @@ tmp/
 
 gradlew
 gradlew.bat
+.idea/gradle.xml
+*.log
